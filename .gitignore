@@ -1,0 +1,11 @@
+# Ignore Excel data files
+*.xlsx
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# macOS system files
+.DS_Store
